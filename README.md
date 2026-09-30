@@ -40,7 +40,10 @@ Lines are typically attributed with indicators of suppression difficulty, potent
 
 *Spatial data*
 
-The line analysis
+1) Shapefile of sample points (links to lines with LID) and extracted raster values.
+2) Shapefile of analysis lines and raster summary values.
+
+<img width="1458" height="712" alt="image" src="https://github.com/user-attachments/assets/7f7202a8-2e38-426d-bbb4-89b03175e450" />
 
 *Optional maps*
 
