@@ -36,3 +36,16 @@ All other settings are controlled through an Excel workbook. The “Settings” 
 
 Lines are typically attributed with indicators of suppression difficulty, potential for control, and firefighter safety. If you request this analysis from the Strategic Analytics Branch, we will extract the “first four Risk Management Assistance Analytics (RMA)” plus indicators of prior fire activity and treatment during the last decade. The RMA Analytics data can be found on the T Drive for Forest Service Employees or the RMA SharePoint for external users.
 
+**Products**
+
+*Spatial data*
+
+The line analysis
+
+*Optional maps*
+
+The line analysis
+
+*Optional barplots*
+
+The line analysis
