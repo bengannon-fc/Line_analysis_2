@@ -47,11 +47,15 @@ Lines are typically attributed with indicators of suppression difficulty, potent
 
 *Optional maps*
 
-The line analysis
+If basic maps of the outputs are needed, a scripted workflow is provided for generating them in R. The map title and annotation are set in the “Settings” worksheet. The raster layer name, break points, class names, and colors to use for map are set in the “Raster” worksheet. The included “logo.tif” file can be replaced with a user contributed logo (e.g., IMT logo) to display in the lower right corner of the map. Match the provided logo specs (tiff format with dimension of 403 pixels wide and 440 pixels high).
+
+<img width="1458" height="712" alt="image" src="https://github.com/user-attachments/assets/c4f10173-c726-4431-a0ae-d58e55f0048b" />
 
 *Optional barplots*
 
-The line analysis
+If summary figures to contrast strategies are needed, a scripted workflow is provided for generating barplots in R. The raster layer name, break points, class names, and colors to use for barplots are set in the “Raster” worksheet. This workflow requires the use of a “Strategy” text field in the analysis lines input shapefile. The strategy names will be used in the figure titles exactly as provided by the user. Keeping the strategy names relatively short (< 30 characters) is recommended to make the titles fit the figures.
+
+<img width="1056" height="919" alt="image" src="https://github.com/user-attachments/assets/7248fd93-474c-4cae-9c3a-d6ae6e7c17d5" />
 
 **Acknowledgements**
 
