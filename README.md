@@ -49,3 +49,7 @@ The line analysis
 *Optional barplots*
 
 The line analysis
+
+**Acknowledgements**
+
+Will Downing contributed to workflow design and testing. The initial line analysis methods were pioneered by Brandon McGilvray. 
